@@ -1,0 +1,49 @@
+<HTML>
+<HEAD>
+<TITLE>Het Noordelijk Domein, het Intranet van het Noorden </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" >
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+<TR><TD ROWSPAN=10><IMG SRC="images\!1regel.gif" WIDTH=120 HEIGHT=1></TD><TD><A HREF="imagemaps/scherm1.map"><img src="images\scherm1.gif" width=283 height=269 border="0" ISMAP usemap="#scherm1.map"></A></TD><TD><A HREF="imagemaps/rechts.map"><img src="images\rechts.gif" border="0" ISMAP usemap="#rechts.map"></a></TD><TD></TD></TR>
+<TR><TD colspan=2><A HREF="imagemaps/onder.map"><img src="images\onder.gif" border="0" ISMAP usemap="#onder.map"></A></TD><TD></TD></TR>
+</TABLE><P>
+
+<MAP NAME="scherm1.map">
+<AREA SHAPE=RECT COORDS="18,2,279,232" HREF=gemeente.htm>
+<AREA SHAPE=RECT COORDS="18,234,134,265" HREF=provincie.htm>
+<AREA SHAPE=RECT COORDS="138,237,273,265" HREF=gemeente.htm>
+<AREA SHAPE=default HREF=home.htm>
+</MAP>
+<MAP NAME="rechts.map">
+<AREA SHAPE=RECT COORDS="12,102,125,125" HREF=nieuws/nieuws.htm>
+<AREA SHAPE=RECT COORDS="12,126,124,149" HREF=bedrijven/bedrijven.htm>
+<AREA SHAPE=RECT COORDS="12,151,125,174" HREF=overheid/overheid.htm>
+<AREA SHAPE=RECT COORDS="12,175,126,195" HREF=toerisme/toerisme.htm>
+<AREA SHAPE=RECT COORDS="12,198,125,219" HREF=ontspanning/ontspanning.htm>
+<AREA SHAPE=default HREF=home.htm>
+</MAP>
+
+<MAP NAME="onder.map">
+<AREA SHAPE=RECT COORDS="25,4,106,32" HREF=zoeken/zoeken.htm>
+<AREA SHAPE=RECT COORDS="110,3,202,34" HREF=info/info.htm>
+<AREA SHAPE=RECT COORDS="204,6,289,35" HREF=internet/internet.htm>
+<AREA SHAPE=default HREF=home.htm>
+</MAP>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+<TR><TD><img src="images\!1regel.gif" width=148 height=1></TD><TD width=468><center><FONT SIZE=+1>Het Noordelijk Domein, het Intranet van het Noorden</FONT>
+</center><p>
+
+Welkom op de pagina's van het Noordelijk Domein. Dit concept is de kapstok voor alle
+informatie binnen de noordelijke provincies.<br>
+Er is op dit moment een goede basis gelegd en de verschillende partijen zijn druk bezig de 
+onderliggende informatie uit te breiden. Kom vaak kijken, er zal veel gebeuren op 
+en met deze pagina's!<BR>
+Heeft u informatie die niet onder het Noordelijk Domein mag ontbreken? <br>
+<A HREF="mailto:info@castel.nl">Neem kontakt met ons op!</a>
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
